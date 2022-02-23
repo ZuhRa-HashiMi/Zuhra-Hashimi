@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zuhra-hashimi" alt="zuhra-hashimi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@zuhrahashimi4" target="blank"><img src="https://img.shields.io/twitter/follow/@zuhrahashimi4?logo=twitter&style=for-the-badge" alt="@zuhrahashimi4" /></a> </p>
+
 
 - 🌱 I’m currently learning **Frameworks, NodeJS, Reacts, JAVA**
 
