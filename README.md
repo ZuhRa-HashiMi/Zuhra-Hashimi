@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZuhRa-HashiMi](https://github.com/ZuhRa-HashiMi)
 
-- 💬 Ask me about **HTML, CSS, python**
+- 💬 Ask me about **HTML, CSS, Bootstrap, python, JavaScript, PhP, Laravel, Vue.js**
 
 - 📫 How to reach me **Zuhrahashimi2001@gmail.com, zuhra.tactaz@yahoo.com, +93(0)787629719 & 766346194**
 
