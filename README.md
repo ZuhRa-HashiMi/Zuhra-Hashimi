@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend/Backend developer from Afghanistan</h3>
 <h5 align="right">Do not feel lonely</h5>
 <h5 align="right">The entire universe is inside you</h5>
-<img align="right" alt="coding" width="400" src"https://www.skyrocketmedia.org/category/multimedia/animation-studios/">
+<img align="right" alt="coding" width="400" src"">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuhra-hashimi&label=Profile%20views&color=0e75b6&style=flat" alt="zuhra-hashimi" /> </p>
 
