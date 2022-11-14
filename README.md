@@ -1,44 +1,67 @@
-<h1 align="center">Hello World👋, I'm Zuhra Hashimi</h1>
-<h3 align="center">A passionate frontend/Backend developer from Afghanistan</h3>
-<h5 align="right">Do not feel lonely</h5>
-<h5 align="right">The entire universe is inside you</h5>
-<img align="right" alt="coding" width="400" src"">
+<h1 align="center"> Hi there👋, I'm Zuhra "Hashimi"</h1>
+<h3 align="center">A computer scientist and a software developer from Afganistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zuhra-hashimi&label=Profile%20views&color=0e75b6&style=flat" alt="zuhra-hashimi" /> </p>
+<p align="center">Currently, I am a remote student at Microverse training to become a Full-Stack Developer. I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
 
-<p align="left"> <a href="https://twitter.com/zuhrahashimi4" target="blank"><img src="https://img.shields.io/twitter/follow/zuhrahashimi4?logo=twitter&style=for-the-badge" alt="zuhrahashimi4" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Frameworks, NodeJS, Reacts, JAVA**
+<div align="center">
+  <! -- <img src="https://badges.pufler.dev/visits/ha-manel/ha-manel?color=3f37c9">
+  <img src="https://komarev.com/ghpvc/?username=ha-manel&color=3f37c9">
+  <a href = "https://commits.top/algeria.html" target="_blank">
+		<img src="https://ennsz4wdh58yl60.m.pipedream.net" alt="ha-manel" target="_blank"/> 
+	</a>
+</div>
 
-- 👯 I’m looking to collaborate on **With other content creator**
+---
 
-- 🤝 I’m looking for help with **With someone who need help**
+<img align="right" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76112be03f92de5e356ca9c83066f76d54710feb3b75&rid=giphy.gif&ct=g">
+	
+- 🎓 I will give my **bachlor's degree** in Computer Science (Information System). Obtained from the University of Kabul, Afghanistan.
 
-- 👨‍💻 All of my projects are available at [https://github.com/ZuhRa-HashiMi](https://github.com/ZuhRa-HashiMi)
+- 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, python, JavaScript, PhP, Laravel, Vue.js**
+- 🌱 I’m currently working on side projects.
 
-- 📫 How to reach me **Zuhrahashimi2001@gmail.com, zuhra.tactaz@yahoo.com, +93(0)787629719 & 766346194**
+- 💻 All **my projects** are available [here.](https://github.com/ZuhRa-HashiMi?tab=repositories)
 
-- 📄 Know about my experiences [file:///H:/c.v/Zuhra's%20Resume(1).pdf](file:///H:/c.v/Zuhra's%20Resume(1).pdf)
+### 🚀 Check out [my portfolio.](https://zuhra-hashimi.github.io/portfolio_mobile/)
 
-- ⚡ Fun fact **Web Full stack ready for new adventures😎**
+### 📫 Reach me on:
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zuhrahashimi4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zuhrahashimi4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/zuhra-hashimi-601966214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/zuhra-hashimi-601966214" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16040423/zuhra-hahimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16040423/zuhra-hahimi" height="30" width="40" /></a>
-<a href="https://fb.com/zu ha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zu ha" height="30" width="40" /></a>
-<a href="https://instagram.com/zuhra.hashimi24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zuhra.hashimi24" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/zuhrahashimi2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/zuhrahashimi2001" height="30" width="40" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/zuhrahashimi4" target="_blank"><img align="center" src="./images/twitter.png" alt="twitter" width="35" /></a> &nbsp;
+<a href="https://linkedin.com/in/www.linkedin.com/in/zuhra-hashimi-601966214" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
+- ✨ Interests: coding, reading books, cooking, art, video games, cooking.
+
+- ⚡ Fun fact: **the world's first programmer was a woman (Ada Lovelace)**.
+
+- 👩 Pronouns: she/her.
+
+<h2 align="left">Skills</h2>
+<p align="left">
+<div>
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="CSS" title="CSS" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" title="Sass" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" alt="Bootstrap" title="Bootstrap" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" alt="Jest" title="Jest" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="Webpack" title="Webpack" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" title="MySQL" />
+</div>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h2 align ="left">GitHub Stats</h2>
+<div>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ha-manel&show_icons=true&theme=nightowl&count_private=true"/>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-manel&show_icons=true&theme=nightowl&layout=compact"/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuhra-hashimi&show_icons=true&locale=en&layout=compact" alt="zuhra-hashimi" /></p>
+<h2>Weekly Coding Stats</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zuhra-hashimi&show_icons=true&locale=en" alt="zuhra-hashimi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zuhra-hashimi&" alt="zuhra-hashimi" /></p>
+[![zuhra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ha_manel&theme=nightowl&v=2)](https://github.com/anuraghazra/github-readme-stats)
