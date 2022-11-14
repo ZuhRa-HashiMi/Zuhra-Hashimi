@@ -51,7 +51,11 @@
 </div>
 </p>
 
-
+<h2 align ="left">GitHub Stats</h2>
+<div>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api?username=zuhra-hashimi&show_icons=true&locale=en"/>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuhra-hashimi&show_icons=true&locale=en&layout=compact" alt="zuhra-hashimi" />
+</div>
 
 <h2>Weekly Coding Stats</h2>
 
