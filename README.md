@@ -7,10 +7,7 @@
 
 <div align="center">
   <! -- <img src="https://badges.pufler.dev/visits/ZuhRa-HashiMi/ZuhRa-HashiMil?color=3f37c9">
-  <img src="https://komarev.com/ghpvc/?username=ha-manel&color=3f37c9">
-  <a href = "https://commits.top/algeria.html" target="_blank">
-		<img src="https://ennsz4wdh58yl60.m.pipedream.net" alt="ha-manel" target="_blank"/> 
-	</a>
+  
 </div>
 
 ---
@@ -54,11 +51,7 @@
 </div>
 </p>
 
-<h2 align ="left">GitHub Stats</h2>
-<div>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api?username=zuhra-hashimi&show_icons=true&locale=en"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuhra-hashimi&show_icons=true&locale=en&layout=compact" alt="zuhra-hashimi" />
-</div>
+
 
 <h2>Weekly Coding Stats</h2>
 
