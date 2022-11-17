@@ -2,7 +2,7 @@
 <h3 align="center">A computer scientist and a software developer from Afganistan</h3>
 
 <p align="center">Currently, I am a remote student at Microverse training to become a Full-Stack Developer. I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
-
+<h5 align="center">I'm jotting you a quick note to let you know that I'm currently searching for a new career opportunity in [Software developer]
 ---
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 <img align="right" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76112be03f92de5e356ca9c83066f76d54710feb3b75&rid=giphy.gif&ct=g">
 	
-- 🎓 I will give my **bachlor's degree** in Computer Science (Information System). Obtained from the University of Kabul, Afghanistan.
+- 🎓 I will give my **bachelor's degree** in Computer Science (Information System). Obtained from the University of Kabul, Afghanistan.
 
 - 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
 
@@ -25,11 +25,13 @@
 ### 🚀 Check out [my portfolio.](https://zuhra-hashimi.github.io/portfolio_mobile/)
 
 ### 📫 Reach me on:
-<h4>Gmail:Zuhrahashimi2001@gmail.com</h4>
+<h4>Gmail: Zuhrahashimi2001@gmail.com</h4>
+<h4>Yahoo: Zuhra.tactaz@yahoo.com</h4>
 
 <p align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/zuhrahashimi4" target="_blank"><img align="center" src="./images/twitter.png" alt="twitter" width="35" /></a> &nbsp;
 <a href="https://linkedin.com/in/www.linkedin.com/in/zuhra-hashimi-601966214" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
+	<hr>
 - ✨ Interests: coding, reading books, cooking, art, video games, cooking.
 
 - ⚡ Fun fact: **the world's first programmer was a woman (Ada Lovelace)**.
@@ -51,7 +53,6 @@
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" title="MySQL" />
 </div>
 </p>
-
 
 
 <h2>Weekly Coding Stats</h2>
