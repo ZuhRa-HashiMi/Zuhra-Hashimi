@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there👋, I'm Zuhra "Hashimi"</h1>
 <h3 align="center">A computer scientist and a software developer from Afganistan</h3>
 
-<p align="center">Currently, I am a remote student at Microverse training to become a Full-Stack Developer. I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
+<p align="center">Currently, I am a remote student at Microverse training to become a Full Stack Developer. I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
 
 ---
 
@@ -16,7 +16,7 @@
 	
 - 🎓 I will give my **bachelor's degree** in Computer Science (Information System). Obtained from the University of Kabul, Afghanistan.
 
-- 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
+- 👩‍💻 I’m currently studying and training to become a **Full Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
 -    I'm jotting you a quick note to let you know that I'm currently searching for a new career opportunity in [Software developer]
 
 - 💻 All **my projects** are available [here.](https://github.com/ZuhRa-HashiMi?tab=repositories)
