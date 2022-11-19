@@ -17,6 +17,7 @@
 - 🎓 I will give my **bachelor's degree** in Computer Science (Information System). Obtained from the University of Kabul, Afghanistan.
 
 - 👩‍💻 I’m currently studying and training to become a **Full Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
+- 🌱 I’m currently working on side projects.
 
 - 💻 All **my projects** are available [here.](https://github.com/ZuhRa-HashiMi?tab=repositories)
 
