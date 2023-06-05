@@ -21,7 +21,7 @@
 
 - 💻 All **my projects** are available [here.](https://github.com/ZuhRa-HashiMi?tab=repositories)
 
-### 🚀 Check out [my portfolio.](https://zuhra-hashimi.github.io/portfolio_mobile/)
+### 🚀 Check out [my portfolio.](https://jade-granita-be9cc0.netlify.app/)
 
 ### 📫 Reach me on:
 <h4>Gmail: Zuhrahashimi2001@gmail.com</h4>
@@ -29,7 +29,7 @@
 
 <p align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/zuhrahashimi4" target="_blank"><img align="center" src="./images/twitter.png" alt="twitter" width="35" /></a> &nbsp;
-<a href="https://linkedin.com/in/www.linkedin.com/in/zuhra-hashimi-601966214" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/zuhra-hashimi/" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
 	<hr>
 - ✨ Interests: coding, reading books, cooking, art, video games, cooking.
 
