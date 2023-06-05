@@ -24,8 +24,6 @@
 - ### 🚀 Check out [my portfolio.](https://jade-granita-be9cc0.netlify.app/)
 
 - ### 📫 Reach me on:
-<h4>Gmail: Zuhrahashimi2001@gmail.com</h4>
-<h4>Yahoo: Zuhra.tactaz@yahoo.com</h4>
 
 <p align="left">
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/zuhrahashimi4" target="_blank"><img align="center" src="./images/twitter.png" alt="twitter" width="35" /></a> &nbsp;
