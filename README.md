@@ -21,9 +21,9 @@
 
 - 💻 All **my projects** are available [here.](https://github.com/ZuhRa-HashiMi?tab=repositories)
 
-### 🚀 Check out [my portfolio.](https://jade-granita-be9cc0.netlify.app/)
+- ### 🚀 Check out [my portfolio.](https://jade-granita-be9cc0.netlify.app/)
 
-### 📫 Reach me on:
+- ### 📫 Reach me on:
 <h4>Gmail: Zuhrahashimi2001@gmail.com</h4>
 <h4>Yahoo: Zuhra.tactaz@yahoo.com</h4>
 
