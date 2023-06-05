@@ -14,7 +14,7 @@
 
 <img align="right" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76112be03f92de5e356ca9c83066f76d54710feb3b75&rid=giphy.gif&ct=g">
 	
-- 🎓 I will give my **bachelor's degree** in Computer Science (Information System). Obtained from the University of Kabul, Afghanistan.
+- 🎓 **bachelor's degree** in Computer Science (Information System). Obtained from the University of Kabul, Afghanistan.
 
 - 👩‍💻 I’m currently studying and training to become a **Full Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
 - 🌱 I’m currently working on side projects.
