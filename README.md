@@ -45,9 +45,6 @@
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="CSS3" title="CSS3" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" title="Sass" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" alt="Bootstrap" title="Bootstrap" />
-	
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/121993284-75488b80-cdb3-11eb-903a-3f4dc8ad7983.png" alt="Tailwind CSS" title="Tailwind CSS" />
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
 
 </div>
 </p>
