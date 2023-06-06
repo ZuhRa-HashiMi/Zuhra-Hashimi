@@ -48,12 +48,6 @@
 	
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/121993284-75488b80-cdb3-11eb-903a-3f4dc8ad7983.png" alt="Tailwind CSS" title="Tailwind CSS" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
-	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="Webpack" title="Webpack" />
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle" />
-	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" title="MySQL" />
-	<img height="50" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/react.svg" alt="React/Redux" title="React/Redux" />
-	<img height="50" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/ruby.svg" alt="Ruby" title="Ruby" />
-	<img height="50" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/rails.svg" alt="Ruby on Rails" title="Ruby on Rails" />
 	<img height="50" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/jest.svg" alt="Jest" title="Jest" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" title="PHP" />
 	<img height="50" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/vue.svg" alt="Vue.js" title="Vue.js" />
