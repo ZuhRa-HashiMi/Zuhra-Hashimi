@@ -1,7 +1,8 @@
 <h1 align="center"> Hi there👋, I'm Zuhra "Hashimi"</h1>
-<h3 align="center">A computer scientist and a software developer from Afganistan</h3>
+<h3 align="center">A Full Stack Developer from Afghanistan</h3>
 
-<p align="center">Currently, I am a remote student at Microverse training to become a Full Stack Developer. I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
+<p align="center">I am a computer scientist and software developer who has completed training at Microverse to become a Full Stack Developer. With a strong passion for learning languages, frameworks, and new technologies, I have equipped myself with the skills necessary to work on both the frontend and backend of web applications. In addition to my development expertise, I enjoy the creative process of designing websites and bringing them to life using CSS.</p>
+
 
 ---
 
