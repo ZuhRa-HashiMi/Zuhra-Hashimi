@@ -45,20 +45,19 @@
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="CSS3" title="CSS3" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" title="Sass" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" alt="Bootstrap" title="Bootstrap" />
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/121993163-2e4a9700-cdb3-11eb-956f-56de79c52c0f.png" alt="SCSS" title="SCSS" />
+	
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/121993284-75488b80-cdb3-11eb-903a-3f4dc8ad7983.png" alt="Tailwind CSS" title="Tailwind CSS" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="Webpack" title="Webpack" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" title="MySQL" />
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/124010456-f8f17000-d9e9-11eb-97be-5a312fa87514.png" alt="React/Redux" title="React/Redux" />
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/119790170-3e007f80-bee3-11eb-847f-7e3e8bbd3f0e.png" alt="Ruby" title="Ruby" />
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/121401983-6de3fb00-c959-11eb-9ef5-8f0e03e20a46.png" alt="Ruby on Rails" title="Ruby on Rails" />
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/121993364-9e691c00-cdb3-11eb-8971-f8e8023c0f4d.png" alt="Jest" title="Jest" />
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/121993440-d0e2e780-cdb3-11eb-8f59-d508835a3b56.png" alt="RSpec" title="RSpec" />
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/124011662-4a25b180-d9eb-11eb-9c5d-3450512a4c6b.png" alt="API" title="API" />
+	<img height="50" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/react.svg" alt="React/Redux" title="React/Redux" />
+	<img height="50" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/ruby.svg" alt="Ruby" title="Ruby" />
+	<img height="50" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/rails.svg" alt="Ruby on Rails" title="Ruby on Rails" />
+	<img height="50" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/jest.svg" alt="Jest" title="Jest" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" title="PHP" />
 	<img height="50" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/vue.svg" alt="Vue.js" title="Vue.js" />
+	<img height="50" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/webpack.svg" alt="Webpack" title="Webpack" />
 </div>
 </p>
 
