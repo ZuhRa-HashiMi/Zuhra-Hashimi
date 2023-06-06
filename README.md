@@ -48,10 +48,7 @@
 	
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/121993284-75488b80-cdb3-11eb-903a-3f4dc8ad7983.png" alt="Tailwind CSS" title="Tailwind CSS" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
-	<img height="50" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/jest.svg" alt="Jest" title="Jest" />
-	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" title="PHP" />
-	<img height="50" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/vue.svg" alt="Vue.js" title="Vue.js" />
-	<img height="50" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/webpack.svg" alt="Webpack" title="Webpack" />
+
 </div>
 </p>
 
