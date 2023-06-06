@@ -58,7 +58,7 @@
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/121993440-d0e2e780-cdb3-11eb-8f59-d508835a3b56.png" alt="RSpec" title="RSpec" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/124011662-4a25b180-d9eb-11eb-9c5d-3450512a4c6b.png" alt="API" title="API" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" title="PHP" />
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/125372805-6124b300-e38f-11eb-8240-995bb7a104cc.png" alt="Vue.js" title="Vue.js" />
+	<img height="50" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/vue.svg" alt="Vue.js" title="Vue.js" />
 </div>
 </p>
 
