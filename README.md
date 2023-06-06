@@ -30,7 +30,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/zuhrahashimi4" target="_blank"><img align="center" src="./images/twitter.png" alt="twitter" width="35" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/zuhra-hashimi/" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
 	<hr>
-- ✨ Interests: coding, reading books, cooking, art, video games, cooking.
+ - ✨ Interests: coding, reading books, cooking, art, video games, cooking.
 
 - ⚡ Fun fact: **the world's first programmer was a woman (Ada Lovelace)**.
 
