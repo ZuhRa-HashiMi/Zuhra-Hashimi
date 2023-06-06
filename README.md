@@ -39,27 +39,26 @@
 <h2 align="left">Skills</h2>
 <p align="left">
 <div>
-	<span>Git</span>
-	<span>GitHub</span>
-	<span>HTML5</span>
-	<span>CSS3</span>
-	<span>Sass</span>
-	<span>Bootstrap</span>
-	<span>Ant Design</span>
-	<span>SCSS</span>
-	<span>Tailwind CSS</span>
-	<span>JavaScript</span>
-	<span>Webpack</span>
-	<span>Oracle</span>
-	<span>MySQL</span>
-	<span>React/Redux</span>
-	<span>Ruby</span>
-	<span>Ruby on Rails</span>
-	<span>Jest</span>
-	<span>RSpec</span>
-	<span>API</span>
-	<span>PHP</span>
-	<span>Vue.js</span>
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML5" title="HTML5" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="CSS3" title="CSS3" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" title="Sass" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" alt="Bootstrap" title="Bootstrap" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/121993097-0d824180-cdb3-11eb-9c3a-d9d93f8b3c13.png" alt="Ant Design" title="Ant Design" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/121993163-2e4a9700-cdb3-11eb-956f-56de79c52c0f.png" alt="SCSS" title="SCSS" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/121993284-75488b80-cdb3-11eb-903a-3f4dc8ad7983.png" alt="Tailwind CSS" title="Tailwind CSS" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="Webpack" title="Webpack" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" title="MySQL" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/124010456-f8f17000-d9e9-11eb-97be-5a312fa87514.png" alt="React/Redux" title="React/Redux" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/119790170-3e007f80-bee3-11eb-847f-7e3e8bbd3f0e.png" alt="Ruby" title="Ruby" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/121401983-6de3fb00-c959-11eb-9ef5-8f0e03e20a46.png" alt="Ruby on Rails" title="Ruby on Rails" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/121993364-9e691c00-cdb3-11eb-8971-f8e8023c0f4d.png" alt="Jest" title="Jest" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/121993440-d0e2e780-cdb3-11eb-8f59-d508835a3b56.png" alt="RSpec" title="RSpec" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/124011662-4a25b180-d9eb-11eb-9c5d-3450512a4c6b.png" alt="API" title="API" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" title="PHP" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/125372805-6124b300-e38f-11eb-8240-995bb7a104cc.png" alt="Vue.js" title="Vue.js" />
 </div>
 </p>
 
